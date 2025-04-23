@@ -1,0 +1,15 @@
+
+.hover-shadow{
+  transition: 0.8s;
+}
+.hover-shadow:hover {
+  transform: scale(1.1);
+}
+/* Show dropdown on hover */
+.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0.5rem;
+}
+footer li{
+  padding-top:10px ;
+}
